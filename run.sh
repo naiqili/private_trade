@@ -1,0 +1,1 @@
+jupyter nbconvert --to notebook --execute --inplace realworld_position_maker.ipynb
